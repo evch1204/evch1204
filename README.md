@@ -8,7 +8,7 @@ I work at DeepSpace now. I build small web apps end to end, several of which are
 role         software engineer
 education    Santa Clara University '25, Data Science + Computer Science
 focus        full-stack web · applied ML · computer vision · data analysis
-shipping     small, useful apps at *.app.space
+shipping     small, useful apps
 learning     production ML, agentic tooling
 ```
 
