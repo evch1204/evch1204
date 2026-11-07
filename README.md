@@ -2,11 +2,11 @@
 
 <br>
 
-<a href="https://evch1204.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" align="left" alt="Hi, I am Evan Chang. Tei Chang. Software engineer and full stack developer."></picture></a>
+<a href="https://evch1204.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Hi, I am Evan Chang. Tei Chang. Software engineer and full stack developer."></picture></a>
 
-Software engineer building small, useful apps. Santa Clara University '25.
+<br>
 
-<br clear="all">
+Software engineer building full-stack web apps and AI developer tools. Santa Clara University '25.
 
 <br>
 
@@ -25,6 +25,16 @@ Software engineer building small, useful apps. Santa Clara University '25.
 [bookwithme](https://bookwithme.app.space) &nbsp; Share a link and let people pick a time, without the email thread.
 
 [docs](https://docs.app.space) &nbsp; A fast, lightweight document editor.
+
+<br>
+
+### Stack
+
+<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/claude-dark.svg"><img src="assets/stack/claude-light.svg" alt="Claude"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/chatgpt-dark.svg"><img src="assets/stack/chatgpt-light.svg" alt="ChatGPT"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cursor-dark.svg"><img src="assets/stack/cursor-light.svg" alt="Cursor"></picture></a>
+
+<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript-dark.svg"><img src="assets/stack/typescript-light.svg" alt="TypeScript"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/javascript-dark.svg"><img src="assets/stack/javascript-light.svg" alt="JavaScript"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/python-dark.svg"><img src="assets/stack/python-light.svg" alt="Python"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cplusplus-dark.svg"><img src="assets/stack/cplusplus-light.svg" alt="C++"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/swift-dark.svg"><img src="assets/stack/swift-light.svg" alt="Swift"></picture></a>
+
+<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg"><img src="assets/stack/react-light.svg" alt="React"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nodejs-dark.svg"><img src="assets/stack/nodejs-light.svg" alt="Node.js"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/threejs-dark.svg"><img src="assets/stack/threejs-light.svg" alt="three.js"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/tailwind-dark.svg"><img src="assets/stack/tailwind-light.svg" alt="Tailwind"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/pandas-dark.svg"><img src="assets/stack/pandas-light.svg" alt="pandas"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/scikitlearn-dark.svg"><img src="assets/stack/scikitlearn-light.svg" alt="scikit-learn"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/opencv-dark.svg"><img src="assets/stack/opencv-light.svg" alt="OpenCV"></picture></a>&nbsp;&nbsp;&nbsp;<a href="#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/git-dark.svg"><img src="assets/stack/git-light.svg" alt="Git"></picture></a>
 
 <br>
 <br>
