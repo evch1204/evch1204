@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://evch1204.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Hi, I am Evan Chang. Tei Chang. Software engineer and full stack developer."></picture></a>
+<a href="https://evch1204.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Hi, I am Evan Chang. Tei Chang. Software engineer. Full stack developer. Data science. Forward deployed engineer."></picture></a>
 
 <br>
 
